@@ -22,7 +22,7 @@ Overarching goals of the project can include learning objectives, practicing usi
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Bootstrap](https://getbootstrap.com/)
+* [Bootstrap 5](https://getbootstrap.com/)
 
 ## [Deployed Link](#deployed-link)
 
@@ -40,11 +40,11 @@ Coleman Buffa
 * Roll credits
 
 ## [To Do List and Road Map](#todo-roadmap)
-- [ ] Create starter files
-- [ ] Review documentation and project requirements
-- [ ] Initialize project readme
+- [x] Create starter files
+- [x] Review documentation and project requirements
+- [x] Initialize project readme
 - [ ] Create plan of attack in To Do List
-- [ ] Commit
+- [x] Commit
 - [ ] Search Bootstrap site for components and implement 
 - [ ] Make git commits by successfull implementation of a component
 - [ ] Add responsive features by component

@@ -5,4 +5,11 @@
 body {
     background-image: url(https://disciplesofchrist.com/wp-content/uploads/2017/10/landscape-nature-background-image.jpg);
 }
-   
+
+h1 {
+    color: teal;
+}
+
+article {
+    background-color: white;
+}
