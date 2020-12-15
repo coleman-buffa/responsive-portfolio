@@ -26,7 +26,8 @@ Overarching goals of the project can include learning objectives, practicing usi
 
 ## [Deployed Link](#deployed-link)
 
-* [See Live Site](#)
+* [See Live Site](https://coleman-buffa.github.io/responsive-portfolio/index.html)
+
 
 ## [Authors](#authors)
 
@@ -45,7 +46,7 @@ Coleman Buffa
 - [x] Initialize project readme
 - [ ] Create plan of attack in To Do List
 - [x] Commit
-- [ ] Search Bootstrap site for components and implement 
+- [x] Search Bootstrap site for components and implement 
 - [ ] Make git commits by successfull implementation of a component
 - [ ] Add responsive features by component
 
