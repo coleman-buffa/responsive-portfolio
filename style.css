@@ -13,7 +13,8 @@ h1 {
 article {
     background-color: white;
 }
-
 footer {
-    background-color: white;
+   border-top: 5px solid teal;
+   color: white;
+   text-align: center;
 }

@@ -44,10 +44,11 @@ Coleman Buffa
 - [x] Create starter files
 - [x] Review documentation and project requirements
 - [x] Initialize project readme
-- [ ] Create plan of attack in To Do List
+- [x] Create plan of attack in To Do List
 - [x] Commit
 - [x] Search Bootstrap site for components and implement 
 - [ ] Make git commits by successfull implementation of a component
+- [ ] Apply stlying by component
 - [ ] Add responsive features by component
 
 ## [Back to Table of Contents](#toc)
