@@ -2,13 +2,13 @@
 
 This project page is a demonstration of building a webpage using Bootstrap. The goal of the project was to recreate a site using client provided design as a guide. Maximizing the amount of Bootstrap classes while minimizing the amount of custom CSS was adopted as an additional learning challenge. 
 
-## [Table of Contents](#toc)
+## [Table of Contents](#table-of-contents)
 
 [Responsive Portfolio](#project-title)
 
 [Table of Contents](#toc)
 
-[Goals and Methods](#goalsmethods)
+[Goals andMethods](#goalsmethods)
 
 [Technologies](#technologies)
 
@@ -72,6 +72,6 @@ Coleman Buffa
 
 * Bootstrap is released under the MIT license and is copyright 2020 Twitter
 
-### [Return to TOC](#toc)
+### [Return to TOC](#table-of-contents)
 
 
